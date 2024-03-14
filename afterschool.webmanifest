@@ -1,0 +1,22 @@
+{
+  "name": "My Book Store",
+  "short_name": "book store",
+  "description": "My online b store",
+
+  "icons": [
+    {
+      "src": "Images/store app.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "Images/bb.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#260bca"
+}
